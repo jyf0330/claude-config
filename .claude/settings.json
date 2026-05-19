@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)"
+    ],
+    "defaultMode": "bypassPermissions"
+  },
+  "theme": "dark",
+  "skipDangerousModePermissionPrompt": true,
+  "env": {
+    "PATH": "/home/ywh/bin:/usr/local/bin:/usr/bin:/bin",
+    "BROWSER": "/home/ywh/bin/xdg-open"
+  }
+}

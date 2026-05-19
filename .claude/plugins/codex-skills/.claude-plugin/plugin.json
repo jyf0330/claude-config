@@ -1,0 +1,9 @@
+{
+  "name": "codex-skills",
+  "version": "1.0.0",
+  "description": "Expose Codex skills to Claude Code running in WSL.",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com"
+  }
+}

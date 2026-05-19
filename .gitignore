@@ -1,0 +1,14 @@
+.local/
+.config/
+.cache/
+projects/
+.claude/plugins/*/skills/
+.claude/plugins/marketplaces/
+.claude/sessions/
+.claude/backups/
+.claude/cache/
+.claude/telemetry/
+.claude/shell-snapshots/
+.claude/tasks/
+.claude/file-history/
+.claude/history.jsonl
