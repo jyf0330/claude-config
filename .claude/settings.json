@@ -8,7 +8,7 @@
   "theme": "dark",
   "skipDangerousModePermissionPrompt": true,
   "env": {
-    "PATH": "/home/ywh/bin:/usr/local/bin:/usr/bin:/bin",
+    "PATH": "/home/ywh/bin:/usr/local/bin:/usr/bin:/bin:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32:/mnt/c/Windows",
     "BROWSER": "/home/ywh/bin/xdg-open"
   }
 }

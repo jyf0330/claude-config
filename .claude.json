@@ -1,30 +1,30 @@
 {
-  "numStartups": 19,
+  "numStartups": 24,
   "installMethod": "global",
   "tipsHistory": {
     "new-user-warmup": 7,
-    "plan-mode-for-complex-tasks": 16,
+    "plan-mode-for-complex-tasks": 21,
     "memory-command": 16,
-    "theme-command": 1,
+    "theme-command": 21,
     "colorterm-truecolor": 1,
     "status-line": 1,
     "prompt-queue": 2,
-    "enter-to-steer-in-relatime": 2,
-    "todo-list": 2,
-    "drag-and-drop-images": 12,
-    "double-esc-code-restore": 13,
-    "continue": 14,
-    "shift-tab": 14,
-    "image-paste": 2,
-    "color-when-multi-clauding": 14,
-    "subagent-fanout-nudge": 17,
-    "frontend-design-plugin": 17,
-    "loop-command-nudge": 17,
-    "custom-agents": 6,
-    "permissions": 11,
+    "enter-to-steer-in-relatime": 22,
+    "todo-list": 22,
+    "drag-and-drop-images": 22,
+    "double-esc-code-restore": 23,
+    "continue": 24,
+    "shift-tab": 24,
+    "image-paste": 22,
+    "color-when-multi-clauding": 24,
+    "subagent-fanout-nudge": 23,
+    "frontend-design-plugin": 24,
+    "loop-command-nudge": 24,
+    "custom-agents": 21,
+    "permissions": 21,
     "rename-conversation": 11
   },
-  "promptQueueUseCount": 16,
+  "promptQueueUseCount": 25,
   "firstStartTime": "2026-05-18T16:58:15.330Z",
   "opusProMigrationComplete": true,
   "sonnet1m45MigrationComplete": true,
@@ -47,7 +47,7 @@
       "hasClaudeMdExternalIncludesApproved": false,
       "hasClaudeMdExternalIncludesWarningShown": false,
       "exampleFiles": [],
-      "lastGracefulShutdown": true,
+      "lastGracefulShutdown": false,
       "lastVersionBase": "2.1.144",
       "lastHintSessionId": "b430c49e-ca81-466e-8074-0b38f5692189",
       "lastSessionFirstPrompt": "download superpower",
@@ -121,7 +121,118 @@
       "hasClaudeMdExternalIncludesWarningShown": false,
       "exampleFiles": [],
       "lastGracefulShutdown": false,
-      "lastVersionBase": "2.1.144"
+      "lastVersionBase": "2.1.144",
+      "lastCost": 2.896277,
+      "lastAPIDuration": 1137070,
+      "lastAPIDurationWithoutRetries": 1137009,
+      "lastToolDuration": 8375,
+      "lastDuration": 16379465,
+      "lastLinesAdded": 1429,
+      "lastLinesRemoved": 1086,
+      "lastTotalInputTokens": 79609,
+      "lastTotalOutputTokens": 33272,
+      "lastTotalCacheCreationInputTokens": 0,
+      "lastTotalCacheReadInputTokens": 3332864,
+      "lastTotalWebSearchRequests": 0,
+      "lastFpsAverage": 1.79,
+      "lastFpsLow1Pct": 150.33,
+      "lastModelUsage": {
+        "deepseek-v4-flash": {
+          "inputTokens": 966,
+          "outputTokens": 1054,
+          "cacheReadInputTokens": 0,
+          "cacheCreationInputTokens": 0,
+          "webSearchRequests": 0,
+          "costUSD": 0.03118
+        },
+        "deepseek-v4-pro[1m]": {
+          "inputTokens": 78643,
+          "outputTokens": 32218,
+          "cacheReadInputTokens": 3332864,
+          "cacheCreationInputTokens": 0,
+          "webSearchRequests": 0,
+          "costUSD": 2.865097
+        }
+      },
+      "lastSessionId": "24cafbe7-b2d1-4754-816a-077905cdae5f",
+      "lastSessionMetrics": {
+        "frame_duration_ms_count": 27700,
+        "frame_duration_ms_min": 0.0832689999951981,
+        "frame_duration_ms_max": 89.31514200009406,
+        "frame_duration_ms_avg": 0.7653033220933433,
+        "frame_duration_ms_p50": 0.6423369999974966,
+        "frame_duration_ms_p95": 1.5331646499922496,
+        "frame_duration_ms_p99": 3.0302888400922483,
+        "pre_tool_hook_duration_ms_count": 74,
+        "pre_tool_hook_duration_ms_min": 0,
+        "pre_tool_hook_duration_ms_max": 6,
+        "pre_tool_hook_duration_ms_avg": 0.36486486486486486,
+        "pre_tool_hook_duration_ms_p50": 0,
+        "pre_tool_hook_duration_ms_p95": 1,
+        "pre_tool_hook_duration_ms_p99": 5.269999999999996,
+        "hook_duration_ms_count": 35,
+        "hook_duration_ms_min": 0,
+        "hook_duration_ms_max": 1,
+        "hook_duration_ms_avg": 0.14285714285714285,
+        "hook_duration_ms_p50": 0,
+        "hook_duration_ms_p95": 1,
+        "hook_duration_ms_p99": 1
+      },
+      "hasCompletedProjectOnboarding": true
+    },
+    "/home/ywh/games/proj05191934": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [],
+      "lastGracefulShutdown": false,
+      "lastVersionBase": "2.1.144",
+      "hasCompletedProjectOnboarding": true
+    },
+    "/home/ywh/games/proj05191936": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [],
+      "lastGracefulShutdown": true,
+      "lastVersionBase": "2.1.144",
+      "lastCost": 0,
+      "lastAPIDuration": 0,
+      "lastAPIDurationWithoutRetries": 0,
+      "lastToolDuration": 0,
+      "lastDuration": 4782,
+      "lastLinesAdded": 0,
+      "lastLinesRemoved": 0,
+      "lastTotalInputTokens": 0,
+      "lastTotalOutputTokens": 0,
+      "lastTotalCacheCreationInputTokens": 0,
+      "lastTotalCacheReadInputTokens": 0,
+      "lastTotalWebSearchRequests": 0,
+      "lastFpsAverage": 15.62,
+      "lastFpsLow1Pct": 140.27,
+      "lastModelUsage": {},
+      "lastSessionId": "a129c50a-6caf-4c3d-8655-e2d21d6e8ea5",
+      "lastSessionMetrics": {
+        "frame_duration_ms_count": 4,
+        "frame_duration_ms_min": 0.15879499999982727,
+        "frame_duration_ms_max": 7.129201000000194,
+        "frame_duration_ms_avg": 1.9654972499998848,
+        "frame_duration_ms_p50": 0.2869964999997592,
+        "frame_duration_ms_p95": 6.1030862500001355,
+        "frame_duration_ms_p99": 6.923978050000181
+      }
     }
   },
   "officialMarketplaceAutoInstallAttempted": true,
@@ -130,6 +241,22 @@
     "update-config": {
       "usageCount": 2,
       "lastUsedAt": 1779186267078
+    },
+    "init": {
+      "usageCount": 1,
+      "lastUsedAt": 1779190502405
+    },
+    "jyf": {
+      "usageCount": 1,
+      "lastUsedAt": 1779208620251
+    },
+    "speckit-constitution": {
+      "usageCount": 1,
+      "lastUsedAt": 1779208693857
+    },
+    "speckit-implement": {
+      "usageCount": 1,
+      "lastUsedAt": 1779209002567
     }
   },
   "showSpinnerTree": false,
@@ -137,6 +264,12 @@
   "githubRepoPaths": {
     "jyf0330/wanwu-qilu": [
       "/home/ywh/games/Tiny"
+    ],
+    "jyf0330/tiny": [
+      "/home/ywh/games/Tiny"
     ]
+  },
+  "feedbackSurveyState": {
+    "lastShownTime": 1779203738228
   }
 }
