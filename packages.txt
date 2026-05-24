@@ -1,4 +1,4 @@
-# Generated: 2026-05-23 00:54
+# Generated: 2026-05-24 23:59
 
 ## APT
 adduser
@@ -716,7 +716,7 @@ zlib1g
 zstd
 
 ## NPM (global)
-@anthropic-ai/claude-code@2.1.148
+@anthropic-ai/claude-code@2.1.150
 @openai/codex@0.131.0
 byterover-cli@3.7.1
 eslint@10.4.0
@@ -794,4 +794,5 @@ wheel==0.42.0
 zope.interface==6.1
 
 ## UV tools
-/home/ywh/bin/sync-and-push.sh: line 34: uv: command not found
+
+## Snap
